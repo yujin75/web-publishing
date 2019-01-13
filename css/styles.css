@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+#logo {
+    width: 165px;
+    height: 58px;
+    margin-top: 80px;
+}
+
+.menu {
+    /*word-spacing: 20px;*/
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.current {
+    font-weight: bold;
+}
+
+.menu a {
+    text-decoration: None;
+    color: rgb(88, 89, 91);
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+    font-family: "Helvetica";
+}
+
+.image {
+    width: 90%;
+}
